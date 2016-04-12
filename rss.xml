@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[goyasduketheft]]></title>
         <description><![CDATA[goyasduketheft]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/goyasduketheft/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 13:32:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 13:34:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/goyasduketheft/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefined794d3c4f-1c9a-4556-bfe4-b3e46cd8f480/index.html</link>
+            <description><![CDATA[<p>Did an ex-Gallery attendant – a student of the Glasgow School Of Art – copy the Duke’s portrait and pass it off as the original in 1965 after the original had been absent for almost four years?</p>]]></description>
+            <link>https://thegrid.ai/goyasduketheft/794d3c4f-1c9a-4556-bfe4-b3e46cd8f480/index.html</link>
             <guid isPermaLink="false">794d3c4f-1c9a-4556-bfe4-b3e46cd8f480</guid>
-            <pubDate>Tue, 12 Apr 2016 13:31:59 GMT</pubDate>
+            <pubDate>Tue, 12 Apr 2016 13:34:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
